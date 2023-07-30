@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="nx6gCb1aS_2vH0HeHw47gCsk6W99zPvpeoZVYRRPCT0" />
+
 ### Weclome, I'm Kuzey
 ## About me
   - High school senior and an aspiring linguist and software engineer
