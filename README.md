@@ -1,7 +1,7 @@
 ### Weclome, I'm Kuzey
 ## About me
-  - High school senior and an aspiring linguist and software engineer
-  - Proud member and mechanical design captain of #8159 Golden Horn
+  - Computational linguist and AI reseracher @ Stanford University
+  - Team captain of #8159 Golden Horn
 
 
 
