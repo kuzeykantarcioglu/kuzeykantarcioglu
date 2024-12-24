@@ -1,7 +1,7 @@
 ### Weclome, I'm Kuzey
 ## About me
-  - Computational linguist and AI reseracher @ Stanford University
-  - Team captain of #8159 Golden Horn
+  - EECS @ Stanford University
+  - #8159 Golden Horn former team captain
 
 
 
