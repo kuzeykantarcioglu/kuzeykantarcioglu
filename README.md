@@ -1,5 +1,6 @@
 ### Weclome, I'm Kuzey
 ## About me
+  - Hardware Technology Intern @ Apple
   - EECS @ Stanford University
   - #8159 Golden Horn former team captain
 
