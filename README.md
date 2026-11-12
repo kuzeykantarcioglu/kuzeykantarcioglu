@@ -14,7 +14,7 @@ Stanford CS (AI track), class of 2028, minor in Electrical Engineering. I work o
 
 #### Before
 
-- **Apple, Hardware Technology (summer 2026):** combinatorial optimization and exact verification for cellular hardware, within 1 of the certified optimum across 330 workloads, plus control-plane firmware in C/C++.
+- **Apple, Hardware Technology (summer 2026):** NP-hard resource allocation for cellular hardware: an anytime prototype reaching 140/141 of the proven optimum and optimality certificates ~518× faster than exact verification; findings informed firmware design. Plus control-plane firmware in C/C++.
 - **Stanford NLP Group:** syntax-aware Transformer pre-pretraining.
 - **FIRST Team 8159 Golden Horn:** team captain.
 
